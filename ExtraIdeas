@@ -1,0 +1,52 @@
+1. Additional Stakeholders
+You mention that others may be identified through analysis. Here are a few worth considering:
+
+Student Support Services – May need access to student wellbeing data to offer proactive help.
+Admin Staff – Could manage scheduling, notifications, or system maintenance.
+IT Services – Responsible for technical support and system upkeep.
+Mental Health Advisors / Counsellors – Might benefit from anonymized or consented data to identify students in need.
+
+2. Expanded Usage Scenarios
+To make the app more useful and future-proof, consider adding:
+
+Notifications & Reminders:
+
+Students receive reminders to submit wellbeing check-ins.
+PS and ST get alerts for overdue check-ins or missed meetings.
+
+
+Meeting History & Notes:
+
+PS can log notes from meetings.
+Students can view summaries or action points.
+
+
+Escalation Workflow:
+
+If a student reports poor wellbeing repeatedly, the system flags it to ST or support services.
+
+
+Data Visualization:
+
+PS and ST can view trends in student wellbeing over time.
+
+
+Privacy & Consent Management:
+
+Students can control who sees their wellbeing data.
+Clear policies on data usage and storage.
+
+
+
+3. Technical Considerations
+You might want to include:
+
+Authentication & Role-Based Access – Ensures users only see what they’re allowed to.
+Mobile & Web Accessibility – Should work across devices.
+Integration with University Systems – For calendars, student records, etc.
+
+4. User Experience Goals
+
+Easy to use and intuitive interface.
+Support for accessibility (e.g., screen readers, high contrast mode).
+Multilingual support if needed.
